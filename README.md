@@ -1,7 +1,7 @@
 # GradleLicensePluginIssueSimple
 Simple project to reproduce an issue in the gradle-license-plugin.
 
-Please see the build.gradle file for the task to run in order to reporduce the issue.
+Please see the **build.gradle** file for the task to run in order to reporduce the issue.
 
 ```
 licenseReport {
